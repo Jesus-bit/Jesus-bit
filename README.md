@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Jesus Gomez!</h2> 
 
 
-### I am Ajay Singh Khalsa
+### I am Jesus Gomez Rangel
 - Development with best practices: Clean Code, TDD, Pair Programming.
 - Development following Agile methodologies.
 - Proactivity and continuous learning.
