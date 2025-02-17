@@ -3,10 +3,10 @@
 ---
 
 ### 🌟 About Me
-Hello! I'm **Jesus Gomez Rangel**, a passionate **Data Science Developer** with a strong background in programming, data analysis, and machine learning. My goal is to transform raw data into actionable insights and help businesses make data-driven decisions. I strive to write efficient, scalable, and clean code while staying up-to-date with the latest trends in data science and technology.
+Hello! I'm **Jesus Gomez Rangel**, a passionate **Data Engineer Developer** with a strong background in programming, data analysis, and machine learning. My goal is to transform raw data into actionable insights and help businesses make data-driven decisions. I strive to write efficient, scalable, and clean code while staying up-to-date with the latest trends in data Engineer and technology.
 
 ### 💡 What I Bring
-- **Data Science Expertise**: Proficiency in building and deploying machine learning models, exploratory data analysis (EDA), and statistical modeling.
+- **Data Engineer Expertise**: Proficiency in building and deploying machine learning models, exploratory data analysis (EDA), and statistical modeling.
 - **Programming Best Practices**: Clean Code, TDD, and Agile Methodologies.
 - **Cloud and Big Data**: Experience with cloud platforms (AWS, Azure, GCP) and big data tools (Spark, Hadoop).
 - **Team Player**: Collaboration, mentoring, and project management skills.
